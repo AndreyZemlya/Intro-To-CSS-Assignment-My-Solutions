@@ -1,0 +1,20 @@
+.secondClass
+{
+    font-size: 24px;
+}
+.numbered
+{
+    background-color: #fc9595;
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+#firstID
+{
+    color: blue;
+    font-size: 36px;
+}
+#secondID
+{
+    font-size: 24px;
+    background-color:   rgb(129, 255, 129);
+    font-weight: bold;
+}
