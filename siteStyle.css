@@ -2,11 +2,15 @@ body
 {
     background-color: #FFF2AF;
 }
-h1, h2
+h1, h2, h3
 {
     color: #493D9E;
 }
 ul,a
 {
     color: #B2A5FF;
+}
+
+.primary #title{
+    color: black;
 }

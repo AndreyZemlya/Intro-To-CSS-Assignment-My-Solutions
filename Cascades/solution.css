@@ -1,0 +1,41 @@
+body
+{
+  font-family:Arial, Helvetica, sans-serif;
+}
+.boldClass
+{
+    font-weight: bold;
+}
+.paragraphClass
+{
+    font-size: 24px;
+}
+
+.biggerFont{
+    font-size: 24px;
+}
+
+#scd
+{
+    font-size: 18px;
+}
+
+button
+{
+    size: 100px;
+}
+
+.baseButton
+{
+    font-size: 22px;
+    background-color: #ffffff;
+    border-style:solid;
+    border-width: 1px;
+}
+
+#cb
+{
+    background-color: green;
+    color: #ffffff;
+    font-weight: bold;
+}
